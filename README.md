@@ -1,4 +1,4 @@
-# Vanmoof-SA5-Reference
+# Vanmoof SA5 Techical Reference
 
 This repository is intended to be a reference of technical data on the Vanmoof SA5. Pull requests welcome.
 
